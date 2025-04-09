@@ -1,0 +1,2 @@
+# trends
+Some Global Trends
