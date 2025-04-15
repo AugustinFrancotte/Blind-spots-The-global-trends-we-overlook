@@ -28,7 +28,7 @@ Isn't it puzzling ? More people to feed, should lead to more poverty and scarcit
 
 Let's have a look at the prices of the ressources in function of demand accross time. 
 
-![](graphs\)
+![](graphs/)
 
 In what World what is desired and demanded becomes abundant, more abundant than it used to when it was less needed ? 
 
@@ -44,16 +44,16 @@ Laws protecting these principles equally for every actors of the market..
 
 Let's see how we can analyze this with actual data. What could be a good proxy for measuring freedom ? Prosperity ? (In)equality ?
 
-![](graphs\)
+![](graphs/)
 
 
 To measure prosperity, I think it's reasonable to consider the gni per capita. To measure freedom, the heritage institude proposed an index of freedom, being the combination of the freedom of speech, freedom of enterprise, fiscality, etc. To measure (in)equality, there is the famous gini index, that compares the distribution of wealth of a population with a perfectly equal situation, the closer to 0 gini index is, the less inequality, the closer to 1, the more inequality. 
 
 Let's see now how these things relate to each other. 
 
-![](graphs\)
+![](graphs/)
 
 
-![](graphs\)
+![](graphs/)
 
 
