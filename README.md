@@ -10,19 +10,19 @@ Let's have a look on these 4 first subjects : hunger, poverty, ressources and ov
 
 Let's first observe population. This one will put some following aspects in perspective. That's what we want. 
 
-![population](graphs\population.png)
+![population](graphs/population.png)
 
 It's growing. Fast. The fastest it ever grew. But ! And there's a big but, the rate of growing is also decreasing, significantly. In mathematics, we call that the derivative, it corresponds grossly to the slope of the tangent to the curve. To make an analogy with physics, it is like a velocity, and what we see is that the velocity is still high but less than it used to, wich means the acceleration is decreasing. We see fecundity decreasing in many countries, it is even frightening in some. 
 
 To measure poverty, there are 3 fixed thresholds at 2.15 $ per day, 3.65 and 6.35. The least being extreme poverty. Of course, we can reffine the analysis relatively to all country by studying the poorest quantil, but we want a big picture first, here. Let's see what the World bank says about it.
 
-![poverty](graphs\poverty.png)
+![poverty](graphs/poverty.png)
 
 Not only poverty decreases on every thresholds, but it decreases crazy fast ! So fast that the data I learned in high school are already outdated, and by a lot ! The extreme poverty was 50% 30 years ago and is now under 10%. All that, while the population was growing like crazy !
 
 Death by hunger also decreases a lot, during this time. In fact it seems populations manage to sustain better and better their food supply as they grow.
 
-![undernourishment](graphs\undernourishment.png)
+![undernourishment](graphs/undernourishment.png)
 
 Isn't it puzzling ? More people to feed, should lead to more poverty and scarcity, right ? That is, if we think linearly, like Malthus, who was envisioning overpopulation since the century, stating that food grow linearly while population grows exponentially. Well ... 6 billions people later, we were never as prosperous and food was never as abundant. So what happened ? Malthus model was clearly wrong, as well as the model that predicts a growth of population leads to scarcity on food, ressources and rich.  
 
