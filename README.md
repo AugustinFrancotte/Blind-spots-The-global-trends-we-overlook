@@ -22,6 +22,8 @@ Not only poverty decreases on every thresholds, but it decreases crazy fast ! So
 
 Death by hunger also decreases a lot, during this time. In fact it seems populations manage to sustain better and better their food supply as they grow.
 
+![undernourishment](graphs\undernourishment.png)
+
 Isn't it puzzling ? More people to feed, should lead to more poverty and scarcity, right ? That is, if we think linearly, like Malthus, who was envisioning overpopulation since the century, stating that food grow linearly while population grows exponentially. Well ... 6 billions people later, we were never as prosperous and food was never as abundant. So what happened ? Malthus model was clearly wrong, as well as the model that predicts a growth of population leads to scarcity on food, ressources and rich.  
 
 Let's have a look at the prices of the ressources in function of demand accross time. 
