@@ -46,7 +46,7 @@ Let's see now how these things relate to each other. First, let's observe the re
 
 It's pretty clear on the graph that there is a strong relationship between prosperity and freedom. We can conclude that capitalistic free market countries seem to be more prosperous than others. It could be interesting to explore how this relate to equality, so let's see now the relationship between the prosperity and equality.
 
-![gini](graphs/Gini-gnipercapita.png)
+![ginii](graphs/Gini-gnipercapita.png)
 
 It seems that prosperity is also related to lower inequalities. The next graph came from the brilliant economist Didier Darcet, I reproduce the results here, showing the deep link between prosperity, equality and freedom. It seems, the more freedom, the more prosperity and the more equality, these three desirable things appear all together in some countries.
 
