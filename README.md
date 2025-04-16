@@ -48,7 +48,9 @@ It's pretty clear on the graph that there is a strong relationship between prosp
 
 ![ginii](graphs/Gini-gnipercapita.png)
 
-It seems that prosperity is also related to lower inequalities. The next graph came from the brilliant economist Didier Darcet, I reproduce the results here, showing the deep link between prosperity, equality and freedom. It seems, the more freedom, the more prosperity and the more equality, these three desirable things appear all together in some countries.
+What this graph shows is this: poor countries can be egalitarian, rich countries too, but we tend to see much more rich countries with a low gini index (lower inequalities). Showing that, yes egalitarian countries can be poor, and rich countries are often egalitarian. 
+
+The next graph came from the brilliant economist Didier Darcet, I reproduce one of his results here, showing the deep link between prosperity, equality and freedom. It seems, the more freedom, the more prosperity and the more equality, these three desirable things appear all together in some countries.
 
 
 ![freegini](graphs/Gini-freedom-gnipercapita.png)
