@@ -1,4 +1,4 @@
-# trends
+# Blind Spots: The Global Trends We Overlook
 
 
 It is a common Idea that the World is not going well, that we are on the verge of a crisis or even a collapse, that overpopulation will submerge all the ressources, causing poverty and hunger all accross the world, worsen by inequalities caused by capitalism. 
@@ -60,6 +60,6 @@ To go even further, we can see that these free, prosperous and equal countries a
 
 ![freegini](graphs/prison_region.png)
 
-
+We humans have a bias towards the negative, and medias can use that to captivate our attention, but this is often noise. The signal is in fact, less sensational, but more positive too. We hear the thunder falling on the tree, but not the forest slowly growing.
 
 
