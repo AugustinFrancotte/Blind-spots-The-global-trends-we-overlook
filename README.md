@@ -1,7 +1,7 @@
 # Blind Spots: The Global Trends We Overlook
 
 
-This project reveals global dynamics that we do not know, by the analysis of open data (World Bank, kaggle, wikipedia, The Heritage Institute, Our World In Data). 
+This project reveals global dynamics that we do not know, by the analysis of open data (World Bank, kaggle, wikipedia, The Heritage Foundation, Our World In Data). 
 
 It is a common Idea that the World is not going well, that we are on the verge of a crisis or even a collapse, that overpopulation will submerge all the ressources, causing poverty and hunger all accross the world, worsen by inequalities caused by capitalism. 
 
